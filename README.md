@@ -1,3 +1,5 @@
+This is a repo with the code used for an intro to Data Engineering workshop provided by CBA team March 2022 which I attended.
+
 # Congratulations, you are a junior Data Engineer at Superstore!
 
 We begin from creating cluster using Azure Databricks
